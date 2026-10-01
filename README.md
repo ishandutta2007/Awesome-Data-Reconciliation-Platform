@@ -67,7 +67,7 @@
 
 > 🌟 Open-source tools excel at **data pipeline validation, automated ETL testing, schema drift checks, and row-level data diffing**. 
 > 
-> *Repositories below are sorted by GitHub Stars_Count (Descending).*
+> *Repositories below are sorted by GitHub_Stars_Count (Descending).*
 
 - **[Great Expectations (GX Core)](https://github.com/great-expectations/great_expectations/stargazers)** [![GitHub_Stars](https://img.shields.io/github/stars/great-expectations/great_expectations?style=social&color=white)](https://github.com/great-expectations/great_expectations/stargazers)  
   Python framework for data validation, automated data profiling, and continuous ETL pipeline reconciliation checks.
