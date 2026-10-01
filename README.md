@@ -67,45 +67,45 @@
 
 > 🌟 Open-source tools excel at **data pipeline validation, automated ETL testing, schema drift checks, and row-level data diffing**. 
 > 
-> *Repositories below are sorted by GitHub Star Count (Descending).*
+> *Repositories below are sorted by GitHub Stars_Count (Descending).*
 
-- **[Great Expectations (GX Core)](https://github.com/great-expectations/great_expectations/stargazers)** [![GitHub Stars](https://img.shields.io/github/stars/great-expectations/great_expectations?style=social&color=white)](https://github.com/great-expectations/great_expectations/stargazers)  
+- **[Great Expectations (GX Core)](https://github.com/great-expectations/great_expectations/stargazers)** [![GitHub_Stars](https://img.shields.io/github/stars/great-expectations/great_expectations?style=social&color=white)](https://github.com/great-expectations/great_expectations/stargazers)  
   Python framework for data validation, automated data profiling, and continuous ETL pipeline reconciliation checks.
 
-- **[dbt-core](https://github.com/dbt-labs/dbt-core/stargazers)** [![GitHub Stars](https://img.shields.io/github/stars/dbt-labs/dbt-core?style=social&color=white)](https://github.com/dbt-labs/dbt-core/stargazers)  
+- **[dbt-core](https://github.com/dbt-labs/dbt-core/stargazers)** [![GitHub_Stars](https://img.shields.io/github/stars/dbt-labs/dbt-core?style=social&color=white)](https://github.com/dbt-labs/dbt-core/stargazers)  
   SQL-first data transformation tool supporting custom assertions, source-to-target schema validation, and period-over-period financial reconciliation models.
 
-- **[DuckDB](https://github.com/duckdb/duckdb/stargazers)** [![GitHub Stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers)  
+- **[DuckDB](https://github.com/duckdb/duckdb/stargazers)** [![GitHub_Stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers)  
   High-performance in-process analytical SQL engine used for lightning-fast local transaction matching and multi-gigabyte ledger data comparison.
 
-- **[Apache Debezium](https://github.com/debezium/debezium/stargazers)** [![GitHub Stars](https://img.shields.io/github/stars/debezium/debezium?style=social&color=white)](https://github.com/debezium/debezium/stargazers)  
+- **[Apache Debezium](https://github.com/debezium/debezium/stargazers)** [![GitHub_Stars](https://img.shields.io/github/stars/debezium/debezium?style=social&color=white)](https://github.com/debezium/debezium/stargazers)  
   Open-source change data capture (CDC) platform used to audit database row mutations and construct real-time audit trails for financial ledgers.
 
-- **[Datafold data-diff](https://github.com/datafold/data-diff/stargazers)** [![GitHub Stars](https://img.shields.io/github/stars/datafold/data-diff?style=social&color=white)](https://github.com/datafold/data-diff/stargazers)  
+- **[Datafold data-diff](https://github.com/datafold/data-diff/stargazers)** [![GitHub_Stars](https://img.shields.io/github/stars/datafold/data-diff?style=social&color=white)](https://github.com/datafold/data-diff/stargazers)  
   Efficient CLI tool and Python library for row-level verification and comparison across heterogeneous SQL databases (PostgreSQL, Snowflake, BigQuery).
 
-- **[Elementary](https://github.com/elementary-data/elementary/stargazers)** [![GitHub Stars](https://img.shields.io/github/stars/elementary-data/elementary?style=social&color=white)](https://github.com/elementary-data/elementary/stargazers)  
+- **[Elementary](https://github.com/elementary-data/elementary/stargazers)** [![GitHub_Stars](https://img.shields.io/github/stars/elementary-data/elementary?style=social&color=white)](https://github.com/elementary-data/elementary/stargazers)  
   dbt-native data observability framework for monitoring data quality, tracking test failures, and alerting on volume/freshness anomalies.
 
-- **[DeepDiff](https://github.com/seperman/deepdiff/stargazers)** [![GitHub Stars](https://img.shields.io/github/stars/seperman/deepdiff?style=social&color=white)](https://github.com/seperman/deepdiff/stargazers)  
+- **[DeepDiff](https://github.com/seperman/deepdiff/stargazers)** [![GitHub_Stars](https://img.shields.io/github/stars/seperman/deepdiff?style=social&color=white)](https://github.com/seperman/deepdiff/stargazers)  
   Python library for deep structural diffing of complex nested dictionaries, JSON payloads, and unstructured data records.
 
-- **[Soda Core](https://github.com/sodadata/soda-core/stargazers)** [![GitHub Stars](https://img.shields.io/github/stars/sodadata/soda-core?style=social&color=white)](https://github.com/sodadata/soda-core/stargazers)  
+- **[Soda Core](https://github.com/sodadata/soda-core/stargazers)** [![GitHub_Stars](https://img.shields.io/github/stars/sodadata/soda-core?style=social&color=white)](https://github.com/sodadata/soda-core/stargazers)  
   CLI testing engine enabling Data Quality Definition Language (SodaCL) for automated data integrity scanning across data warehouses.
 
-- **[Formance Ledger](https://github.com/formancehq/ledger/stargazers)** [![GitHub Stars](https://img.shields.io/github/stars/formancehq/ledger?style=social&color=white)](https://github.com/formancehq/ledger/stargazers)  
+- **[Formance Ledger](https://github.com/formancehq/ledger/stargazers)** [![GitHub_Stars](https://img.shields.io/github/stars/formancehq/ledger?style=social&color=white)](https://github.com/formancehq/ledger/stargazers)  
   Programmable open-source double-entry ledger database built for complex financial transactions, tracking balances and multi-asset audit trails.
 
-- **[TigerBeetle](https://github.com/tigerbeetle/tigerbeetle/stargazers)** [![GitHub Stars](https://img.shields.io/github/stars/tigerbeetle/tigerbeetle?style=social&color=white)](https://github.com/tigerbeetle/tigerbeetle/stargazers)  
+- **[TigerBeetle](https://github.com/tigerbeetle/tigerbeetle/stargazers)** [![GitHub_Stars](https://img.shields.io/github/stars/tigerbeetle/tigerbeetle?style=social&color=white)](https://github.com/tigerbeetle/tigerbeetle/stargazers)  
   Distributed financial accounting database designed for ultra-low latency transaction tracking and automated double-entry ledger balance verification.
 
-- **[dbt-expectations](https://github.com/calogica/dbt-expectations/stargazers)** [![GitHub Stars](https://img.shields.io/github/stars/calogica/dbt-expectations?style=social&color=white)](https://github.com/calogica/dbt-expectations/stargazers)  
+- **[dbt-expectations](https://github.com/calogica/dbt-expectations/stargazers)** [![GitHub_Stars](https://img.shields.io/github/stars/calogica/dbt-expectations?style=social&color=white)](https://github.com/calogica/dbt-expectations/stargazers)  
   Port of Great Expectations checks into dbt native macros, providing data distribution, row count, and match testing directly inside SQL transformations.
 
-- **[audit-helper](https://github.com/dbt-labs/dbt-audit-helper/stargazers)** [![GitHub Stars](https://img.shields.io/github/stars/dbt-labs/dbt-audit-helper?style=social&color=white)](https://github.com/dbt-labs/dbt-audit-helper/stargazers)  
+- **[audit-helper](https://github.com/dbt-labs/dbt-audit-helper/stargazers)** [![GitHub_Stars](https://img.shields.io/github/stars/dbt-labs/dbt-audit-helper?style=social&color=white)](https://github.com/dbt-labs/dbt-audit-helper/stargazers)  
   Useful dbt package designed to perform audit comparison queries between two relations (old vs new dbt models) during data pipeline refactoring.
 
-- **[reconcile](https://github.com/google/reconcile/stargazers)** [![GitHub Stars](https://img.shields.io/github/stars/google/reconcile?style=social&color=white)](https://github.com/google/reconcile/stargazers)  
+- **[reconcile](https://github.com/google/reconcile/stargazers)** [![GitHub_Stars](https://img.shields.io/github/stars/google/reconcile?style=social&color=white)](https://github.com/google/reconcile/stargazers)  
   Google's declarative reconciliation library for state alignment, pattern checking, and resource synchronization.
 
 ---
